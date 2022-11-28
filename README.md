@@ -1,3 +1,7 @@
+# 리액트 강의
+
+본 프로젝트는 리액트를 배우기 위해서 직접 제작해보는 매니지먼트 웹사이트입니다.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
